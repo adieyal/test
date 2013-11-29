@@ -1,0 +1,4 @@
+1. cp SETUP.sample to SETUP
+2. update SETUP with relevant variables
+3. update the files in requirements/
+4. fab generate.py

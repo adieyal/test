@@ -1,0 +1,10 @@
+*.pyc
+\.*.swp
+*.log
+*.pot
+*.sample.*
+local_settings.py
+fabdefs.py
+server/static
+local.py
+production.py

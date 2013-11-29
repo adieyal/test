@@ -1,0 +1,5 @@
+# Add setup variables here
+
+subdomain = xxx
+gunicorn_host = 10.0.0.21
+gunicorn_port = 9000
